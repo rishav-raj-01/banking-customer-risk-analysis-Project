@@ -5,7 +5,7 @@ Minimize Financial Risk: Identifying high-risk loan applicants through banking d
 
 Streamline Logistics: Finding bottlenecks in the supply chain to reduce lead times and shipping costs.
 
-Tech Stack :
+Tech Stack :-
 
 SQL: Data extraction, multi-table joins, and complex aggregations (CTEs).
 
