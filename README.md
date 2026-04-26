@@ -1,4 +1,4 @@
-# banking-risk-analysis-Project
+# banking-customer-risk-analysis-Project
 The core of this project is to transform raw operational data into strategic business intelligence. By analyzing historical trends and performance metrics, the project aims to:
 
 Minimize Financial Risk: Identifying high-risk loan applicants through banking data patterns.
