@@ -33,4 +33,3 @@ Link: https://www.kaggle.com/competitions/GiveMeSomeCredit/data
 * SciPy
 
 Rishav Raj
-LinkedIn | GitHub
